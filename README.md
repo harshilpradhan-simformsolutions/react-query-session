@@ -1,0 +1,24 @@
+# React Query
+
+- Why React Query ?
+- Configuration
+- QueryClient and default options
+- useQuery Hook
+  - queryKey
+  - queryFn
+  - Query Observers and devtools
+  - staleTime
+  - cacheTime
+  - Data transformation
+  - refetchOnWindowFocus
+  - refetchInterval
+  - Calling queries conditionally
+  - structuralSharing
+  - side effects
+  - Deduping requests
+  - Challenges - Avoiding cache miss and key management
+- useMutation Hook
+  - mutationFn
+  - What are mutations ?
+  - invalidate cache
+  - Reading / Writing to cache
